@@ -1,0 +1,3 @@
+[submodule "external/jesse-strategies-gabrielweich"]
+	path = external/jesse-strategies-gabrielweich
+	url = git@github.com:tkhieu/jesse-strategies-gabrielweich.git
