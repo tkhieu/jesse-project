@@ -23,6 +23,8 @@
 /storage/json/*.json
 /storage/charts/*.png
 /storage/full-reports/*.html
+/storage/logs/backtest-mode/*.txt
+/storage/logs/optimize-mode/*.txt
 *.pyc
 /__pycache__
 /venv

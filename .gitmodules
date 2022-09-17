@@ -1,3 +1,9 @@
 [submodule "external/jesse-strategies-gabrielweich"]
 	path = external/jesse-strategies-gabrielweich
 	url = git@github.com:tkhieu/jesse-strategies-gabrielweich.git
+[submodule "external/example-strategies-jesse-ai"]
+	path = external/example-strategies-jesse-ai
+	url = git@github.com:tkhieu/example-strategies-jesse-ai.git
+[submodule "external/jesse_strategies-ysdede"]
+	path = external/jesse_strategies-ysdede
+	url = git@github.com:tkhieu/jesse_strategies-ysdede.git
